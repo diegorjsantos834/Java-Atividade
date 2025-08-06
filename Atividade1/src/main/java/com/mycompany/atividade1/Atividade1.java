@@ -35,7 +35,7 @@ public class Atividade1 {
     if (num3 < 1804) { //verifica se o valor da variável é menor que 1804
         JOptionPane.showMessageDialog(null, "Esse salário é menor que o salário mínimo, vc está pobre");//se for menor que 1804, exibe a mensagem de acerto
     } else {
-        JOptionPane.showMessageDialog(null, "Esse salário é maior ou igual ao salário mínimo,");//se não for menor que 1804, exibe a mensagem de erro
+        JOptionPane.showMessageDialog(null, "Esse salário é maior do que o salário mínimo,");//se não for menor que 1804, exibe a mensagem de erro
         
     }
     //algoritmo 4, usando <> ou !=, diferente 
