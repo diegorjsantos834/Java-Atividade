@@ -40,8 +40,8 @@ caso acerte:
 
 <img width="597" height="182" alt="image" src="https://github.com/user-attachments/assets/d66b677d-cc08-4ce6-87a7-c17d94df2429" />
 
-
 caso erre:
 
+<img width="248" height="89" alt="image" src="https://github.com/user-attachments/assets/44743d7d-c683-48d2-880b-2fdeb0c583c0" />
 
-
+Algoritmo 4, !=
