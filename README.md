@@ -45,3 +45,44 @@ caso erre:
 <img width="248" height="89" alt="image" src="https://github.com/user-attachments/assets/44743d7d-c683-48d2-880b-2fdeb0c583c0" />
 
 Algoritmo 4, !=
+
+<img width="395" height="189" alt="image" src="https://github.com/user-attachments/assets/8041eaf9-2089-4061-ad62-68ba324beb3a" />
+
+resposta errada: 13
+
+caso acerte:
+
+<img width="391" height="173" alt="image" src="https://github.com/user-attachments/assets/45528b7c-30cd-4069-bd15-d9086aeba6aa" />
+
+caso erre:
+
+<img width="384" height="177" alt="image" src="https://github.com/user-attachments/assets/458c51ff-e7db-4d5b-a7aa-7107920a7dbf" />
+
+ALgoritmo, >=
+
+<img width="822" height="188" alt="image" src="https://github.com/user-attachments/assets/936a8136-bce8-4849-a801-751d5553e85d" />
+
+resposta correta: 97
+
+caso acerte:
+
+<img width="767" height="175" alt="image" src="https://github.com/user-attachments/assets/487ce5df-9e5e-4217-b191-12168797c5d8" />
+
+caso erre:
+
+<img width="710" height="184" alt="image" src="https://github.com/user-attachments/assets/d298f599-32f4-4dd4-b1d2-9a2d9a95953b" />
+
+ultimo algoritmo, <=
+
+<img width="762" height="188" alt="image" src="https://github.com/user-attachments/assets/175c1845-a4d9-41e6-801d-5d7c1cd92f33" />
+
+resposta certa: 6<=
+caso acerte:
+
+<img width="388" height="182" alt="image" src="https://github.com/user-attachments/assets/2306499c-5fe8-478e-bfdd-c8f4d56dec2a" />
+
+caso erre:
+
+<img width="391" height="166" alt="image" src="https://github.com/user-attachments/assets/1b1085b6-3433-40d8-9475-dfec8533a17a" />
+
+
