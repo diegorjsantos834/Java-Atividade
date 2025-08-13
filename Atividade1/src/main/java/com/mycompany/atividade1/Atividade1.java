@@ -57,12 +57,12 @@ public class Atividade1 {
     }
 
     //alogoritmo 6, usando <=, menor ou igual a
-    int num6 = Integer.parseInt(JOptionPane.showInputDialog("Digite um número menor ou igual que os titulos paulista do Corithians "));//declaração da primeira variável desse algoritmo
+    int num6 = Integer.parseInt(JOptionPane.showInputDialog("Digite um número menor ou igual a quantidade de algoritmo dessa atividade"));//declaração da primeira variável desse algoritmo
 
-    if ((num6 <= 31)) { //verifica se o valor da variável é menor ou igual a 30
-        JOptionPane.showMessageDialog(null, "Parabéns, você acertou, o corinthians tem 31 titulos o maior campeão ");//se for menor ou igual a 31, exibe a mensagem de acerto
+    if ((num6 <= 6)) { //verifica se o valor da variável é menor ou igual a 6
+        JOptionPane.showMessageDialog(null, "Parabéns, você conseguiu");//se for menor ou igual a 6, exibe a mensagem de acerto
     } else {
-        JOptionPane.showMessageDialog(null, "Você errou, o corinthians tem menos de 31 titulos muito acima do rivais ");//se não for menor ou igual a 31, exibe a mensagem de erro
+        JOptionPane.showMessageDialog(null, "Você errou, tem menos ");//se não for menor ou igual a 6, exibe a mensagem de erro
         
     }
     }
